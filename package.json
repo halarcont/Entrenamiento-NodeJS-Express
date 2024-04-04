@@ -1,0 +1,23 @@
+{
+  "name": "entrenamientonodejs",
+  "version": "1.0.0",
+  "description": "aplicacion de entrenamiento en node + express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "Heriberto",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.0"
+  }
+}
